@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622743904212",
+    "project_id": "study-app-531d5",
+    "storage_bucket": "study-app-531d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622743904212:android:6c4e5277ac1e0a776d4041",
+        "android_client_info": {
+          "package_name": "com.hady.dev.study_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622743904212-rod2i671etsvfjqisogeirlcf5knbhmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCsvYjOOeXGB5MhKGGvs0bjpk04C3kgSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622743904212-rod2i671etsvfjqisogeirlcf5knbhmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
